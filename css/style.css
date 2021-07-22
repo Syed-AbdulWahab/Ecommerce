@@ -220,9 +220,92 @@ background: linear-gradient(to right, #ff9472, #f2709c); /* W3C, IE 10+/ Edge, F
     padding-left:25px;
     padding-right:25px;
 }
-  .footer{
-      background:#000;
-      color:#8a8a8a;
-      font-size:14px;
-      padding:60px 0 20px;
-  }
+  
+
+
+ 
+footer {
+  text-align: left;
+  padding: 100px 0px;
+}
+
+footer .footer-item h2 {
+  margin-bottom: 25px;
+  margin-top: 0px;
+  font-size: 14px;
+  color: #3a3a3a;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+footer .footer-item ul li {
+  display: block;
+  margin-bottom: 8px;
+}
+footer .footer-item ul li:last-child {
+  margin-bottom: 0px;
+}
+
+
+footer .footer-item ul li a {
+  font-size: 13px;
+  color: #7a7a7a;
+  text-decoration: none;
+  transition: all 0.5s;
+}
+
+footer .footer-item ul li a:hover {
+  color: black;
+}
+
+footer .footer-item ul.social-icons {
+  margin-top: 18px;
+}
+
+footer .footer-item ul.social-icons li {
+  display: inline-block;
+  margin-bottom: 0px;
+  margin-right: 5px;
+}
+
+footer .footer-item ul.social-icons li a {
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  line-height: 30px;
+  background-color: #cdcdcd;
+  color: #fff;
+  text-align: center;
+  border-radius: 50%;
+  transition: all 0.5s;
+}
+
+footer .footer-item ul.social-icons li a:hover {
+  background-color: black;
+}
+
+.sub-footer {
+  background-color: black;
+  text-align: center;
+}
+
+.sub-footer p {
+  color: #fff;
+  margin: 0px;
+  padding: 18px 0px;
+}
+
+.sub-footer a {
+  color: #fff;
+}
+
+.sub-footer a:hover {
+  color: #9FF;
+}
+
+
+
+
+
+
+
