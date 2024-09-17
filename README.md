@@ -1,2 +1,2 @@
 # Ecommerce
-https://syed-abdulwahab.github.io/Websitee/
+https://syed-abdulwahab.github.io/Ecommerce/
